@@ -9,7 +9,7 @@
  * or otherwise. Insofar as a script file is dual licensed under GPL,
  * Microsoft neither took the code under GPL nor distributes it thereunder but
  * under the terms set out in this paragraph. All notices and licenses
- * below are for informational purposes only.
+ * below are for informational purposes only.swerwert
  *
  * NUGET: END LICENSE TEXT */
 /*! matchMedia() polyfill - Test a CSS media type/query in JS. Authors & copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas. Dual MIT/BSD license */
