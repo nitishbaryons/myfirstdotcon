@@ -11,7 +11,7 @@ namespace chektheapp.Controllers
         public ActionResult Index()
         {
             return View();
-            // sabjdfs
+            // sabjdfssdfsdf
         }
 
         public ActionResult About()
@@ -19,7 +19,7 @@ namespace chektheapp.Controllers
             ViewBag.Message = "Your application description page.";
 
             return View();
-            //ksadhfkhsadk
+            //asadfasdf
         }
 
         public ActionResult Contact()
